@@ -29,7 +29,7 @@ Um nicht mit der Arbeit anderer Teilnehmer zu kollidieren, arbeite bitte nur in 
 
 ## Resourcen
 
-HTML-Validator: https://validator.w3.org/#validate_by_input
-HTML-Tags: https://wiki.selfhtml.org/wiki/HTML#Elemente
-CSS-Eigenschaften: https://wiki.selfhtml.org/wiki/CSS/Eigenschaften 
-Boostrap-Doku: http://getbootstrap.com/
+ - HTML-Validator: https://validator.w3.org/#validate_by_input 
+ - HTML-Tags: https://wiki.selfhtml.org/wiki/HTML#Elemente
+ - CSS-Eigenschaften: https://wiki.selfhtml.org/wiki/CSS/Eigenschaften 
+ - Boostrap-Doku: http://getbootstrap.com/
