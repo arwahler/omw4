@@ -1,0 +1,26 @@
+.clearfix:after {
+  content: ".";
+  clear: both;
+  display: block;
+  visibility: hidden;
+  height: 0px;
+}
+
+.col-12 {
+  display: block;
+}
+.col-6,
+.col-4,
+.col-3 {
+  float: left;
+  display: block;
+}
+.col-6 {
+  width: 50%;
+}
+.col-4 {
+  width: 33.333%;
+}
+.col-3 {
+  width: 25%;
+}
